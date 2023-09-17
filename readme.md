@@ -29,5 +29,6 @@ A plataforma registraria o tempo em cada atração e rotas posteriores, permitin
     <li>RM99499 – Guilherme Monteiro Espim</li>
     <li>RM98297 – Lucas Pisaneschi Speranzini</li>
     <li>RM97937 – Pedro Henrique Fernandes Lô de Barros</li>
+    <li>RM99279 - João Paulo Zamperlini</li>
     <li>RM97824 – Vinicius Oliveira de Barros</li>
 </ul>
